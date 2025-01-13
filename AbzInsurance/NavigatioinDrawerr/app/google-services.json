@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534189604634",
+    "project_id": "vehicle-insurance-aae81",
+    "storage_bucket": "vehicle-insurance-aae81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534189604634:android:ec3894962af31e18ccb6a3",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.navigatioindrawerr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGt4LXILC1iZjgYp7ftMof3RCMVdtdxSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

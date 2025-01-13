@@ -1,0 +1,80 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:background="#CEE4B5"
+    android:padding="16dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="20dp"
+        android:elevation="5dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#026A5D"
+            android:padding="20dp">
+
+            <!-- CardView around ImageView with rounded corners -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:elevation="5dp"
+                android:layout_marginBottom="32dp"
+                app:cardBackgroundColor="#74F861"
+                app:cardCornerRadius="20dp">
+
+                <ImageView
+                    android:id="@+id/managePoliciesImage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginBottom="32dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/carpolicyclaim"
+                    android:contentDescription="TODO"/>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:id="@+id/titleManagePolicies"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/manage_policies_title"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="#73FD7D"
+                android:layout_marginTop="24dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"/>
+
+            <TextView
+                android:id="@+id/subTitleManagePolicies"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/manage_policies_subtitle"
+                android:textSize="20sp"
+                android:textColor="#D9ED8F"
+                android:layout_marginTop="16dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"/>
+
+            <TextView
+                android:id="@+id/instructionManagePolicies"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/manage_policies_instruction"
+                android:textSize="18sp"
+                android:textColor="@color/white"
+                android:layout_marginTop="16dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

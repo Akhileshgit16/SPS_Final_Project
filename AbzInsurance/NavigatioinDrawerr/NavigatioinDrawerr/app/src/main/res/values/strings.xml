@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">ABZ</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="productId"> Product Id</string>
+    <string name="ProductName">Product Name\n</string>
+    <string name="ProductDescriotion">Product Description</string>
+    <string name="ProductUin">Product UIN</string>
+    <string name="InsuredInterests">Insured Interests</string>
+    <string name="Policycoverage">Policy Coveerage</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="addon_id">Addon Id</string>
+    <string name="Addontitle">Prodct Addon\n</string>
+    <string name="AddonDesc">Addon Description\n</string>
+    <string name="Product">Product\n</string>
+    <string name="Regno">Registration Number\n</string>
+    <string name="regAuthority">Registration Authority</string>
+    <string name="ownerid">Owner Id\n</string>
+    <string name="make">Make</string>
+    <string name="model">Model\n</string>
+    <string name="fueltype">Fuel Type\n</string>
+    <string name="variant">Variant</string>
+    <string name="enginenum">Engine Number\n</string>
+    <string name="chassinum">Chassi Number</string>
+    <string name="enginecapacity">Engine Capacity</string>
+    <string name="seatingCapacity">Seating Capacity</string>
+    <string name="mfgyear">Mfg Year\n</string>
+    <string name="regDate">Reg Date\n</string>
+    <string name="bodytype">Body Type</string>
+    <string name="policy">Policy</string>
+    <string name="policy_no">Policy Number\n</string>
+    <string name="proposal_no">Proposal Number\n</string>
+    <string name="no_claim_bonus">No Claim Bonus</string>
+    <string name="receipt_no">Receipt Number</string>
+    <string name="receipt_date">Receipt Date</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="amount">Amount</string>
+    <string name="policy_textView">Policy\n</string>
+    <string name="policy_add_on_id">Addon ID\n</string>
+    <string name="agent_name">Agent Name\n</string>
+    <string name="agent_phone">Agent Phone\n</string>
+    <string name="license_code">License Code\n</string>
+    <string name="productaddon">Product Addon\n</string>
+    <string name="claim_details">Claim Details</string>
+    <string name="claim_no">Claim No</string>
+    <string name="claim_date">Claim Date</string>
+    <string name="policy_num">Policy No</string>
+    <string name="incident_date">Incident Date</string>
+    <string name="incident_location">Incident Location</string>
+    <string name="incident_description">Incident Description</string>
+    <string name="claim_amount">Claim Amount</string>
+    <string name="survey_or_name">Survey Or Name</string>
+    <string name="survey_or_phone">Survey Or Phone</string>
+    <string name="survey_date">Survey Date</string>
+    <string name="survey_description">Survey Description</string>
+    <string name="claim_status">Claim Status</string>
+    <string name="basic_amount">Basic Amount</string>
+    <string name="BasicAmount">Basic Amount</string>
+    <string name="idv">IDV</string>
+    <string name="to_date">To Date</string>
+    <string name="from_date">From Date</string>
+    <string name="agent_id">Agent ID</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="product_id">Product ID</string>
+    <string name="registration_no">Registration No</string>
+    <string name="proposal_numm">Proposal No</string>
+    <string name="proposal_details">Proposal Details</string>
+    <string name="product">Product</string>
+    <string name="Home">home\n</string>
+    <string name="getbtn">GET\n"</string>
+    <string name="Post">SAVE</string>
+    <string name="ProductAddon">Product Addon</string>
+    <string name="GET">GET\n</string>
+    <string name="SAVE">SAVE</string>
+    <string name="customer">Customer</string>
+    <string name="customer_ID">Customer ID</string>
+    <string name="desc">Description</string>
+    <string name="customer_phone">Customer Phone</string>
+    <string name="customer_email">Customer Email</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="gets">GET</string>
+    <string name="updates">UPDATE</string>
+    <string name="deletes">DELETE</string>
+    <string name="leaseBy">leasedBy</string>
+    <string name="owner">owner</string>
+    <string name="TotalAmount">total Amount</string>
+    <string name="bodyType">body Type</string>
+    <string name="vehicle_Insurance">Vehicle Insurance</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forget password?</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_account">Don\'t have an account</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_your_email">Enter Your EmailAddress</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="registration_success">registration Success</string>
+    <string name="password_mismatch">Password Mismatch</string>
+    <string name="empty_fields">Empty Fields</string>
+    <string name="customequery">CUSTOMER QUERY</string>
+    <string name="queryid">QeuryID</string>
+    <string name="query_date">Query Date</string>
+    <string name="status">Status</string>
+    <string name="queryresponse">QUERY RESPONSE</string>
+    <string name="srno">Sr No</string>
+    <string name="ageniId">Agent ID</string>
+    <string name="responsedate">Response Date</string>
+    <string name="customer_query">customer query</string>
+    <string name="query_response">query response</string>
+    <string name="vehicle_insurances">Vehicle Insurance</string>
+    <string name="title_tagline">"Trusted. Simplified. Protected.</string>
+    <string name="projec_title">"Discover ABZ Insurance..</string>
+
+    <string name="welcome">Welcome !!</string>
+    <string name="abz_insurance">ABZ Insurance</string>
+    <string name="gaadi_ki_safety_hai_easy_jab_saath_hai_abz">Gaadi Ki Safety Hai Easy, Jab Saath Hai ABZ!</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="sign_up">Sign up</string>
+
+
+
+    <string-array name="spinner_items">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+
+    <string-array name="payment_mode">
+        <item>Cash </item>
+        <item>UPI</item>
+        <item>Card</item>
+    </string-array>
+    <string-array name="policyId">
+        <item>show</item>
+    </string-array>
+
+    <string-array name="policyAddon_Id">
+        <item>show</item>
+    </string-array>
+    <string-array name="policyNumber">
+        <item>show</item>
+    </string-array>
+    <string-array name="proposalNumber">
+        <item>show</item>
+    </string-array>
+    <string-array name="productId">
+        <item>show</item>
+    </string-array>
+    <string-array name="policy_options_dropdown">
+        <item>View Policy</item>
+        <item>Add Policy Add-ons</item>
+        <item>Renew Policy</item>
+        <item>Cancel Policy</item>
+    </string-array>
+</resources>

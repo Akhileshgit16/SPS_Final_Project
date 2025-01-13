@@ -1,0 +1,70 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/nav_home" />
+
+
+
+
+        <item
+            android:id="@+id/nav_policy"
+            android:title="Policy"
+            android:icon="@drawable/policy"
+            android:actionLayout="@layout/navigation_spinner_item"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/nav_proposal"
+            android:icon="@drawable/proposal"
+            android:title="Proposal" />
+
+        <item
+            android:id="@+id/nav_agent"
+            android:icon="@drawable/agent"
+            android:title="Agent" />
+        <item
+            android:id="@+id/nav_product"
+            android:title="Product"
+            android:icon="@drawable/product"
+            android:actionLayout="@layout/navigation_spinner_item"
+            app:showAsAction="always" />
+
+
+
+        <item
+            android:id="@+id/nav_customer"
+            android:icon="@drawable/user"
+            android:title="Customer" />
+
+
+
+        <item
+            android:id="@+id/nav_customerquery"
+            android:icon="@drawable/cusquery"
+            android:title="@string/customer_query" />
+        <item
+            android:id="@+id/nav_queryresponse"
+            android:icon="@drawable/response"
+            android:title="@string/query_response" />
+
+
+
+
+
+
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#040920"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="16dp"
+    >
+
+    <!-- Vehicle Insurance Section -->
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/abzinsurance"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABZ Insurance"
+        android:layout_gravity="center"
+        android:textSize="32sp"
+        android:textColor="#F0F5F7"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+     <!--Agent Module-->
+    <string name="agent_id">Agent ID</string>
+    <string name="agent_name">Agent Name</string>
+    <string name="ageniId">Agent ID</string>
+    <string name="agent_phone">Agent Phone</string>
+    <string name="agent_email">Agent Email</string>
+    <string name="license_code">License Code</string>
+
+    <!-- Claim Module-->
+    <string name="claim_details">Claim Details</string>
+    <string name="claim_no">Claim No</string>
+    <string name="claim_date">Claim Date</string>
+    <string name="policy_no">Policy Number\n</string>
+    <string name="incident_date">Incident Date</string>
+    <string name="incident_location">Incident Location</string>
+    <string name="incident_description">Incident Description</string>
+    <string name="claim_amount">Claim Amount</string>
+    <string name="survey_name">Survey Name</string>
+    <string name="survey_phone">Survey Phone</string>
+    <string name="survey_date">Survey Date</string>
+    <string name="survey_description">Survey Description</string>
+    <string name="claim_status">Claim Status</string>
+
+    <!--Customer Module-->
+    <string name="customer">Customer</string>
+    <string name="customer_id">Customer ID</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_phone">Customer Phone</string>
+    <string name="customer_email">Customer Email</string>
+    <string name="customer_address">Customer Address</string>
+
+    <!--Customer Query Module-->
+    <string name="customerquery">CUSTOMER QUERY</string>
+    <string name="queryid">QeuryID</string>
+    <string name="desc">Description</string>
+    <string name="query_date">Query Date</string>
+    <string name="status">Status</string>
+
+    <!-- Product Module-->
+    <string name="Product">Produc</string>
+    <string name="productId"> Product Id</string>
+    <string name="ProductName">Product Name\n</string>
+    <string name="ProductDescriotion">Product Description</string>
+    <string name="ProductUin">Product UIN</string>
+    <string name="InsuredInterests">Insured Interests</string>
+    <string name="Policycoverage">Policy Coveerage</string>
+    <!--Product Addon Module-->
+    <string name="productaddon">Product Addon</string>
+    <string name="addon_id">Addon Id</string>
+    <string name="Addontitle">Addon Title</string>
+    <string name="AddonDesc">Addon Description\n</string>
+
+    <!-- Vehicle Module-->
+    <string name="Regno">Registration Number\n</string>
+    <string name="regAuthority">Registration Authority</string>
+    <string name="make">Make</string>
+    <string name="model">Model\n</string>
+    <string name="fueltype">Fuel Type\n</string>
+    <string name="variant">Variant</string>
+    <string name="enginenum">Engine Number\n</string>
+    <string name="chassinum">Chassi Number</string>
+    <string name="enginecapacity">Engine Capacity</string>
+    <string name="seatingCapacity">Seating Capacity</string>
+    <string name="mfgyear">Mfg Year\n</string>
+    <string name="regDate">Reg Date\n</string>
+    <string name="bodytype">Body Type</string>
+    <string name="leaseBy">leasedBy</string>
+    <string name="ownerid">Owner Id\n</string>
+
+     <!--Policy-->
+    <string name="policy_textView">Policy</string>
+    <string name="policy_num">Policy No</string>
+    <string name="proposal_no">Proposal Number\n</string>
+    <string name="no_claim_bonus">No Claim Bonus</string>
+    <string name="receipt_no">Receipt Number</string>
+    <string name="receipt_date">Receipt Date</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="amount">Amount</string>
+
+   <!-- Policy Addon MOdule-->
+    <string name="policy_add_on_id">Addon ID\n</string>
+
+    <!--Proposal Module-->
+    <string name="proposal_details">Proposal Details</string>
+    <string name="registration_no">Registration No</string>
+    <string name="BasicAmount">Basic Amount</string>
+    <string name="idv">IDV</string>
+    <string name="to_date">To Date</string>
+    <string name="from_date">From Date</string>
+
+    <!--Query Response Module-->
+
+    <string name="queryresponse">QUERY RESPONSE</string>
+    <string name="srno">Sr No</string>
+    <string name="responsedate">Response Date</string>
+
+
+    <string name="Home">home\n</string>
+    <!--buttons-->
+    <string name="get">GET</string>
+    <string name="save">SAVE</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+   <!--Signup Module-->
+    <string name="owner">owner</string>
+    <string name="TotalAmount">total Amount</string>
+    <string name="vehicle_Insurance">Vehicle Insurance</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forget password?</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_account">Don\'t have an account</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_your_email">Enter Your Email Address</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="registration_success">registration Success</string>
+    <string name="password_mismatch">Password Mismatch</string>
+    <string name="empty_fields">Empty Fields</string>
+
+    <!--Home Page-->
+    <string name="vehicle_insurances">Vehicle Insurance</string>
+    <string name="title_tagline">"Trusted. Simplified. Protected.</string>
+    <string name="projec_title">"Discover ABZ Insurance..</string>
+    <string name="image">splash image\n</string>
+
+    <string-array name="spinner_items">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+
+    <string-array name="payment_mode">
+        <item>C </item>
+        <item>Q</item>
+        <item>U</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="policyId">
+        <item>show</item>
+    </string-array>
+    <string-array name="policyAddon_Id">
+        <item>show</item>
+    </string-array>
+    <string-array name="policyNumber">
+        <item>show</item>
+    </string-array>
+    <string-array name="proposalNumber">
+        <item>show</item>
+    </string-array>
+    <string-array name="productId">
+        <item>show</item>
+    </string-array>
+
+    <string-array name="regAuthority">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+    </string-array>
+
+    <string-array name="fueltype">
+        <item>P</item>
+        <item>D</item>
+        <item>C</item>
+        <item>L</item>
+        <item>E</item>
+    </string-array>
+    <string-array name="carMakes">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Ford</item>
+        <item>Chevrolet</item>
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Mercedes-Benz</item>
+        <item>Tesla</item>
+        <item>Nissan</item>
+        <item>Hyundai</item>
+        <item>Volkswagen</item>
+        <item>Mazda</item>
+        <item>Kia</item>
+        <item>Porsche</item>
+        <item>Jaguar</item>
+        <item>Lexus</item>
+        <item>Land Rover</item>
+        <item>Subaru</item>
+        <item>Jeep</item>
+        <item>Chrysler</item>
+    </string-array>
+    <string-array name="carModels">
+        <item>Corolla</item>
+        <item>Civic</item>
+        <item>Focus</item>
+        <item>Malibu</item>
+        <item>3 Series</item>
+        <item>A4</item>
+        <item>EClass</item>
+        <item>Model S</item>
+        <item>Altima</item>
+        <item>Elantra</item>
+        <item>Passat</item>
+        <item>MX-5 Miata</item>
+        <item>Soul</item>
+        <item>911</item>
+        <item>XJ</item>
+        <item>RX</item>
+        <item>Range Rover</item>
+        <item>Outback</item>
+        <item>Wrangler</item>
+        <item>Pacifica</item>
+    </string-array>
+    <string-array name="claimStatus">
+        <item>S</item>
+        <item>A</item>
+        <item>R</item>
+        <item>T</item>
+    </string-array>
+
+
+</resources>

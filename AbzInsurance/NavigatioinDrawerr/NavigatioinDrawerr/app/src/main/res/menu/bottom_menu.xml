@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/nav_home"
+        android:title="@string/Home" />
+
+    <item
+        android:id="@+id/vehicle_bottom"
+        android:icon="@drawable/vehicle"
+        android:title="Vehicle" />
+
+    <item
+        android:id="@+id/claim_bottom"
+        android:icon="@drawable/product"
+        android:title="Claim" />
+
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ShapeAppearanceOverlay_App_CornerRadius">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">25dp</item> <!-- Adjust the value as needed -->
+    </style>
+
+
+    <style name="custom_cardview_styles" parent="Widget.MaterialComponents.CardView">
+<item name="shapeAppearanceOverlay">@style/custom_cardview</item>
+        ></style>
+    
+    
+<style name="custom_cardview" parent="">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSizeTopLeft">0dp</item>
+    <item name="cornerSizeTopRight">48dp</item>
+    <item name="cornerSizeBottomLeft">0dp</item>
+    <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+    
+
+
+
+
+</resources>

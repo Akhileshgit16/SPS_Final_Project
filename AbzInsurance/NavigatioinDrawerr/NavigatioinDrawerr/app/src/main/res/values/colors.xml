@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="lavender">#8692f7</color>
+    <color  name="thickblack">#757575</color>
+    <color name="red">#FFFF4444</color>
+    <color name="formsCardcolor">#D0E4ED</color>
+    <color name="formsIconcolor">#0327F6</color>
+
+
+    <color name="magneta_lite">#DFCAE2</color>
+    <color name="magneta">#D5B2DC</color>
+    <color name="purple">#AB47BC</color>
+    <color name="purple2">#611668</color>
+    <color name="purple3">#70088C</color>
+    <color name="purple4">#E040FB</color>
+    <color name="lavender1">#E6E6FA</color>
+    <color name="lavender2">#D38FDE</color>
+
+    <color name="seablue">#26C6DA</color>
+    <color name="orange">#FF7043</color>
+    <color name="yellow">#FFEE58</color>
+    <color name="icon_default_color">#8D8D8D</color>
+    <color name="titleColor">#26C6DA</color>
+    <color name="slideColor">#04243B</color>
+    <color name="loginscreenColor">#C59BD5</color>
+    <color name="drawableicontint">#FEE24CFB</color>
+
+    <!-- Screen 1: Welcome to ABZ Insurance -->
+    <string name="welcome_title">Welcome to ABZ Insurance!</string>
+    <string name="welcome_subtitle">Get fast, reliable, and secure vehicle insurance right at your fingertips.</string>
+    <string name="welcome_instruction">Let’s get started with your insurance journey!</string>
+
+    <!-- Screen 2: Buy Insurance Quickly -->
+    <string name="buy_insurance_title">Buy Insurance Quickly</string>
+    <string name="buy_insurance_subtitle">Enter your vehicle details and select the coverage that suits you.</string>
+    <string name="buy_insurance_instruction">Get insured in just a few steps!</string>
+
+    <!-- Screen 3: Manage Your Policies & Claims -->
+    <string name="manage_policies_title">Manage Your Policies &amp; Claims</string>
+    <string name="manage_policies_subtitle">View your policies, track claims, and make payments easily.</string>
+    <string name="manage_policies_instruction">Your insurance, all in one place!</string>
+    <string name="abz_logo">ABZ Logo</string>
+    <string name="skip_btn"><![CDATA[SKIP >>]]></string>
+    <string name="vehicle_insurance">ABZ Insurance</string>
+
+
+
+</resources>

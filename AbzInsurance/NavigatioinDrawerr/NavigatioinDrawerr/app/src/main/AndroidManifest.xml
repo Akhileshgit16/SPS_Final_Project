@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Required permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name="com.singlepointsol.ABZ_Final_Project.MyApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/abz_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NavigatioinDrawerr"
+        tools:targetApi="31">
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.WelcomeActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.QueryResponse.QueryResponse"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.CustomerQuery.CustomerQuery"
+            android:exported="false" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.Policy.PolicyActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.PolciyAddon.PolicyAddonsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.Product.ProductActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.ProductAddon.ProductAddonActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.Claims.ClaimActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.Agent.AgentActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.Customer.CustomerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.Proposal.ProposalActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.singlepointsol.ABZ_Final_Project.Vehicle.VehicleActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
